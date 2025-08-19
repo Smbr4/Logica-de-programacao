@@ -1,2 +1,2 @@
 # Logica-de-programacao
-Exercicios de lógica usando pseudocódigo
+Exercicios de lógica usando pseudocódigo(PORTUGOL)
